@@ -28,4 +28,4 @@ Como o projeto já configurado e rodando, acessar as endpoint conforme segue aba
 - **[Alteração Produto](http://127.0.0.1:8000/api/v1/pedidos/alteracao)**
 
 É necessário está logado e com o token válido para realizar as requisições nas endpoit.
-**[Aqui está uma documentação mais detalhada dos endipoint.](https://documenter.getpostman.com/view/16113745/Uyr4Kzqu)**
+**[Aqui está uma documentação mais detalhada dos endpoint.](https://documenter.getpostman.com/view/16113745/Uyr4Kzqu)**
