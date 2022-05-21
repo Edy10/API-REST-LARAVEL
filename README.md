@@ -1,4 +1,4 @@
-# Desafio-Stefanini
+# API REST
 
 ## Instruções do projeto
 
